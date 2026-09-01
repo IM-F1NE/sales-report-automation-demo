@@ -219,3 +219,10 @@ members: [
 
 ![日次管理表のデモ](screenshots/salesdemo.png)
 
+### 週次集計画面
+
+日次シートに入力された実績を、担当者別・週別・月間で自動集計します。
+
+![週次集計画面のデモ](screenshots/weekly-report-demo.png)
+
+
