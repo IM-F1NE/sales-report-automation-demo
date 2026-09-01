@@ -1,0 +1,28 @@
+# Google認証情報
+credentials.json
+client_secret*.json
+token.json
+
+# 環境変数
+.env
+.env.*
+!.env.example
+
+# 個人情報・社内データ
+private/
+private-data/
+real-data/
+credentials/
+exports/
+
+# CSV実データ
+data/private/
+
+# ログ
+*.log
+
+# OS・エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
